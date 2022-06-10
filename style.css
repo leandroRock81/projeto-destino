@@ -47,4 +47,6 @@ button:hover {
     transition: 1s;
     background-color: rgb(14, 14, 86);
 }
-
+h2 {
+    padding-bottom: 1px;
+}
